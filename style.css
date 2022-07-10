@@ -1,0 +1,191 @@
+body{
+    width: 99%;
+    height: 99%;
+    background-color: grey;
+    position: absolute;
+}
+
+.menu{
+    margin: 3px;
+    list-style:none;
+    text-decoration: none;
+    font-variant: all-petite-caps;
+    text-align:center;
+    box-sizing: border-box;
+    font-size: 22px;
+}
+.menu li{
+    display:inline;
+    text-decoration: none;
+}
+.menu a{
+    display:inline-block;
+    padding:15px;
+    width: 300px;
+    letter-spacing: 5px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.head{
+    align-content: center;
+}
+div.prv{
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-family: cursive;
+}
+div.vtor{
+    float: left;
+    text-align: justify;
+    font-size: 18px;
+    color: white;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    font-family: cursive;
+}
+img.caracter{
+    float: right;
+    max-width: 50%;
+    vertical-align: top;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+img.love{
+    float: left;
+    max-width: 50%;
+    vertical-align: top;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+div.tret{
+    float: left;
+    text-align: justify;
+    width: 49%;
+    color: white;
+    font-size: 18px;
+    display: inline-block;
+    vertical-align: top;
+    font-family: cursive;
+    margin: 20px;
+}
+div.cetvrt{
+    text-align: center;
+    color: white;
+    margin: 30px;
+    font-size: 18px;
+    display: block;
+    font-family: cursive;
+    float: right;
+}
+.left{
+    float: left;
+    text-align: justify;
+    width: 50%;
+    font-family: sans-serif;
+    color: white;
+    display: inline-block;
+    margin: 20px;
+}
+.mike{
+    float: right;
+    display: inline-block;
+    padding: 20px;
+    width: 43%;
+}
+.a{
+    display: table;
+    clear: both;
+    text-align: center;
+    font-size: larger;
+    font-family: Bahnschrift;
+    padding: 4px;
+    width: 99%;
+}
+.a1{
+    float: left;
+    width: 24%;
+    padding: 7px;
+    height: 300px;
+    background-color: darkgrey;
+}
+.a2{
+    float: left;
+    width: 24%;
+    padding: 7px;
+    height: 300px;
+    background-color: lightgrey;
+}
+.a3{
+    float: left;
+    width: 24%;
+    padding: 7px;
+    height: 300px;
+    background-color: darkgrey;
+}
+.a4{
+    float: left;
+    width: 24%;
+    padding: 7px;
+    height: 300px;
+    background-color: lightgrey;
+}
+.cast{
+    float: left;
+    margin: 70px 2px 70px 70px;
+    align-content: center;
+}
+.opis{
+    float: left;
+    text-align: center;
+    width: 30%;
+    margin: 80px 70px 70px 2px;
+    color: white;
+    font-family: Arial;
+}
+a{
+    color: lightblue;
+}
+#prv_red{
+    display: flex;
+    width: 100%;
+}
+.des
+{
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    width: 30%;
+    margin: 20px;
+    display: inline-block;
+    width: 30%;
+    float: left;
+}
+.spoeni_cast{
+    display: inline-flex;
+    justify-content: center;
+    width: 30%;
+    margin: 10px;
+}
+#vtor_red{
+    width: 100%;
+    display: flex;
+}
+
+.footer{
+    background-color: black;
+    height: 44px;
+    width: 100%;
+    bottom: 0;
+    color: white;
+    font-variant: all-petite-caps;
+    font-size: xx-large;
+    display: block;
+    text-align: center;
+    clear: both;
+}
